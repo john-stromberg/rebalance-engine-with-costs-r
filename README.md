@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/rebalance-engine-with-costs-r](https://github.com/john-stromberg/quant-research-r/tree/main/projects/rebalance-engine-with-costs-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # rebalance-engine-with-costs-r
 
 R project for threshold-based rebalancing with transaction-cost-aware decisioning.
